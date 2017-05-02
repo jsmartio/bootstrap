@@ -36,7 +36,7 @@
     					<li <?php echo $next_class ?>>
       						<a href="?start=<?php echo $start_next ?>&ttl_perpage=<?php echo $ttl_perpage ?>&asc_desc=<?php echo $asc_desc ?>&search=<?php echo $search ?>" aria-label="Next">
         					<span aria-hidden="true">&raquo;</span>
-      						</a>
+      						</a><!-- disabled if at max //-->
     					</li>
   					</ul>
 				</nav>		 
