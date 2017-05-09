@@ -42,3 +42,5 @@
 				</nav>		 
 				
 		 <?php } ?>
+
+<?php // find shorted way to code ?>
