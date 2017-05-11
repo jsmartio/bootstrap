@@ -10,6 +10,7 @@
 				$prev_class = " class=\"disabled\" ";
 				$start_prev = 0;
 			}
+			// regedit
 			$start_next = $start + $ttl_perpage;
 			if($start_next >= $ttl_found){
 				$start_next = $ttl_found - $ttl_perpage;
