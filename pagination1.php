@@ -16,6 +16,7 @@
 				$start_next = $ttl_found - $ttl_perpage;
 				$next_class = " class=\"disabled\" ";
 			}
+	
 		?>
 
 				<nav aria-label="Page navigation">
