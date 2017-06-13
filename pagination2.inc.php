@@ -7,6 +7,7 @@
   // LIMIT Portion of SQL -> $limit = "LIMIT $start, $ttl_perpage";
   // NOTE sample SQL:
   // SELECT * FROM <myTable> WHERE <conditions> ORDER BY lastvisit $asc_desc $limit 
+
   
 ?>
 	
