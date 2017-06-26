@@ -44,7 +44,8 @@
 			<input type="hidden" name="mem" value="<?php echo $mem ?>">
 			<input type="hidden" name="mem2" value="<?php echo $mem2 ?>">
 			<input type="hidden" name="search" value="<?php echo $search ?>">
-			Jump to Page		
+
+					Jump to Page		#
 				
 				</td><td style="padding:5px !important">
 				
