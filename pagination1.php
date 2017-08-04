@@ -29,6 +29,7 @@
     		
     			<?php 
 			/* saa */
+			/* sab */
     				for($i = 1; $i * $ttl_perpage <= $ttl_found && $i < 30; $i++){ 
     					$starti = ($i -1) * $ttl_perpage;
     					if($start == $starti) $dis = " class=\"active\" ";
