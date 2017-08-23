@@ -69,7 +69,7 @@
 			
 			</td><td>
 			
-			<button type="submit" class="btn btn-default btn-xs  form-inline">GO</button>
+			<button type="submit" class="btn btn-default  form-inline">GO</button><!--init response //-->
 	
 			</td>
 			</tr>
