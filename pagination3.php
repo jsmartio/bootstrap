@@ -21,7 +21,6 @@
 
 
 		if($ttl_found > $ttl_perpage){ 
-			
 		?>
 
 	
