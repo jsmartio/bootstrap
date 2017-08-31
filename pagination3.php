@@ -11,6 +11,7 @@
 			$start_prev = $start - $ttl_perpage;
 			if($start_prev < 0){
 				$prev_class = " class=\"disabled\" ";
+				
 				$start_prev = 0;
 			}
 			$start_next = $start + $ttl_perpage;
